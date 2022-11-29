@@ -1,5 +1,5 @@
 {
-  "css/main.css": "css/main-c0355fd688.css",
+  "css/main.css": "css/main-80ffba7ae6.css",
   "css/vendor.css": "css/vendor-6324272b9d.css",
   "fonts/BonaNova-Bold.woff2": "fonts/BonaNova-Bold-336ed21ac9.woff2",
   "fonts/BonaNova-Regular.woff2": "fonts/BonaNova-Regular-d394b69e1f.woff2",
@@ -10,6 +10,8 @@
   "fonts/NunitoSans-Light.woff2": "fonts/NunitoSans-Light-97b9ec22bf.woff2",
   "fonts/NunitoSans-Regular.woff2": "fonts/NunitoSans-Regular-92a7b20cd4.woff2",
   "fonts/NunitoSans-SemiBold.woff2": "fonts/NunitoSans-SemiBold-dc5f687862.woff2",
+  "fonts/ubuntu-v20-latin-regular.svg": "fonts/ubuntu-v20-latin-regular-3c51cf95e0.svg",
+  "fonts/ubuntu-v20-latin-regular.woff2": "fonts/ubuntu-v20-latin-regular-0e8eefb454.woff2",
   "img/about-bg.png": "img/about-bg-850c265f2e.png",
   "img/about-bg.webp": "img/about-bg-8217422092.webp",
   "img/about-statue.png": "img/about-statue-4ffb4e9d74.png",
@@ -81,5 +83,8 @@
   "img/svg/offer3.svg": "img/svg/offer3-39e0a91d87.svg",
   "img/svg/offer4.svg": "img/svg/offer4-cfd3af071e.svg",
   "img/svg/offer5.svg": "img/svg/offer5-f9e017aed9.svg",
-  "js/main.js": "js/main-63b61dfa59.js"
+  "img/webmedia-border-tablet.svg": "img/webmedia-border-tablet-1f18cb7277.svg",
+  "img/webmedia-border.svg": "img/webmedia-border-484d1cfec8.svg",
+  "img/webmedia-logo.svg": "img/webmedia-logo-cedbe8bd35.svg",
+  "js/main.js": "js/main-2a139e052c.js"
 }
