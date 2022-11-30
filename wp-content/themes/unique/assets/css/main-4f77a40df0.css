@@ -2724,12 +2724,12 @@ a {
     filter: blur(18.667vw);
   }
   .hero__content {
-    padding-top: 73vw;
+    padding-top: 53vw;
   }
   .hero__title {
     font-size: 17.6vw;
     line-height: 18vw;
-    margin-bottom: 15.667vw;
+    margin-bottom: 3vw;
   }
   .hero__title span:first-child {
     font-size: 6.4vw;
@@ -2738,13 +2738,13 @@ a {
   .hero__subtitle {
     font-size: 5.667vw;
     line-height: 8.073vw;
-    margin-bottom: 4vw;
+    margin-bottom: 0;
   }
   .hero__text {
     max-width: 100%;
     font-size: 4.267vw;
     line-height: 5.6vw;
-    margin-bottom: 6.667vw;
+    margin-bottom: 0;
   }
   .hero__btns {
     width: 100%;
@@ -2768,7 +2768,7 @@ a {
   }
   .hero__image {
     width: 100%;
-    height: 128.533vw;
+    height: 100vw;
     border-radius: 0 0 8vw 8vw;
   }
   .hero__images-wrapper {
@@ -2776,10 +2776,10 @@ a {
     border-radius: 0 0 8vw 8vw;
   }
   .statue {
-    right: -17vw;
+    right: -20vw;
     bottom: 0;
     width: 66.4vw;
-    height: 115vw;
+    height: 78vw;
   }
   .title {
     font-size: 11.2vw;
